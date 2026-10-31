@@ -1,4 +1,4 @@
-# YogaZen – Hybrid Recommendation System
+# YogaZen – Recommendation System
 
 ## 1. Project Overview
 
